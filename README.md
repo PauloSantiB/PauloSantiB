@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about productivity hacks
 - 💞️ I’m looking to collaborate on in flutter open source projects
 - 📫 How to reach me my email is paulosantibd@gmail.com
-- 😄 Pronouns: Piki
 - ⚡ Fun fact: I like to learn something new every day
 - TechStack: Flutter
 
