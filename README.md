@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PauloSantiB
 - 👀 I’m interested in to work as a junior flutter developer
-- 🌱 I’m currently learning about productivity hacks
 - 💞️ I’m looking to collaborate on in flutter open source projects
 - 📫 How to reach me my email is paulosantibd@gmail.com
 - ⚡ Fun fact: I like to learn something new every day
